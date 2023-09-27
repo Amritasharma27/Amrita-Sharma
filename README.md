@@ -5,10 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in CPA Global as IP Analyst
-- 🌱 I’m currently learning Data Analysis
-- 🤔 I’m looking for help for Data Analysis tools.
-- 📫 How to reach me: amritaku011@gmail.com
+- 🔭 I worked with Paytm as Associate, CPA Global (Now known as Clarivate) as IP Analyst, Novartis as Business Analyst
+- 🌱 I’m a data enthusiast and exploring new things in te data field everyday.
+- 📫 How to reach me: amritaku011@gmail.com or linkedin : https://www.linkedin.com/in/amritasharma27
 - 😄 Pronouns: Happy
-- ⚡ Fun fact: Reason for doing anything
--->
