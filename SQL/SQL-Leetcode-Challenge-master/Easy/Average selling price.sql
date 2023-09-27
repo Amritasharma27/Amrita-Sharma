@@ -69,7 +69,8 @@ Select d.product_id, round((sum(price*units)+0.00)/(sum(units)+0.00),2) as avera
 from(
 Select *
 from prices p
-natural join 
+join 
 unitssold u
+on u.product_id = p.product_id
 where u.purchase_date between p.start_date and p.end_date) d
 group by d.product_id 
